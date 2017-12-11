@@ -1,0 +1,20 @@
+{
+  "name": "scratch-oauth",
+  "version": "0.0.a.0",
+  "description": "An API for connecting apps to Scratch",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scratch-oauth/main.git"
+  },
+  "keywords": [
+    "node",
+  ],
+  "license": "Apache 2.0
+}
