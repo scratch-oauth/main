@@ -1,6 +1,6 @@
 {
   "name": "scratch-oauth",
-  "version": "0.0.a.0",
+  "version": "0.0.1",
   "description": "An API for connecting apps to Scratch",
   "engines": {
     "node": "8.9.1"
